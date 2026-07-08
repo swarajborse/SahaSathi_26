@@ -46,3 +46,6 @@ logs/
 
 # Uploads
 uploads/
+
+# Firebase service account
+firebase-service-account.json
